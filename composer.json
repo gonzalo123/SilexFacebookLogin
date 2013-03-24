@@ -1,5 +1,5 @@
 {
-    "name": "gonzalo123/facebook-twitter-login",
+    "name": "gonzalo123/silex-facebook-login",
     "description": "Sign-in with Facebook in a Silex application.",
 
     "type": "library",
