@@ -3,7 +3,7 @@
     "description": "Sign-in with Facebook in a Silex application.",
 
     "type": "library",
-    "homepage": "https://github.com/gonzalo123/FacebookTwitterLogin",
+    "homepage": "https://github.com/gonzalo123/SilexFacebookLogin",
     "license": "MIT",
     "keywords": ["Facebook", "OAuth1"],
     "authors": [
